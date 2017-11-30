@@ -1,0 +1,123 @@
+body {
+	background-color: #9898CA;
+}
+.bgrnd-main {
+	display: block;
+	width: 80%;
+	position: relative;
+	text-align: center;
+	margin: 40px auto;
+}
+nav {
+	margin: 10px auto; 	
+	text-align: center;
+}
+.navigation {
+	display: inline-block;
+	font-size: 14px;
+	font-family: 'Times New Roman', Times, serif;
+	color: rgb(0, 0, 0);
+	text-transform: uppercase;
+	padding: 5px 15px;
+	text-align: center;
+	
+}
+.navigation:hover {
+	text-decoration: underline;
+	background-color: rgb(254, 209, 54);
+	cursor: pointer;
+}
+.active {
+	text-decoration: underline;
+	background-color: rgb(216, 105, 53);
+	cursor: pointer;
+}
+
+
+.help-block {
+
+	margin: 10px auto; 		
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+
+}
+.bgrnd-test {
+	display: block;
+	width: 50%;
+	position: relative;
+	margin: 10px auto;
+}
+.testarea{
+	width: 30%;
+	margin: 10px auto; 		
+	
+}
+.testblock{
+	display: block;
+	width: 90%;
+	margin: 10px auto;
+}
+.test-part {
+	margin-bottom: 20px;
+	padding:15px;
+	background-color: rgb(230, 175, 124);
+}
+.item {
+	display: inline;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-left: 50px;
+	
+
+}
+.list {
+	display: block;
+	text-align: center;
+	display: inline;
+	font-size: 1.5em;
+
+}
+.test-header {
+	margin-top: 2px;
+}
+.final {
+	font-size: 18px;
+	font-weight: bold;
+}
+.smalcart{
+	width: 25%;
+	height:55px;
+	padding: 10px;
+	padding-left: 15px;
+	margin: 10px auto;
+	background-color: rgb(230, 175, 124);
+	
+	/*border: 1px solid rgb(235, 15, 15);*/
+	border-radius: 10px; 
+	background: #E6DEEA;
+}
+.firstcol 
+{
+	width: 300px;
+}
+.secondcol 
+{
+	width: 150px;
+	
+}
+.thirdcol 
+{
+	width: 150px;
+}
+.fcol 
+{
+	width: 200px;
+}
+
+.itemspace
+{
+	margin: 0 auto;
+	text-align: center;
+	
+}
